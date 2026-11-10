@@ -114,4 +114,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DefaultAvatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\default.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Dice1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dice1.jpg;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Dice2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dice2.jpg;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Dice3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dice3.jpg;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Dice4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dice4.jpg;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Dice5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dice5.jpg;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Dice6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dice6.jpg;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Icon01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon01.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Icon02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon02.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Icon03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon03.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Icon04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon04.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
 </root>

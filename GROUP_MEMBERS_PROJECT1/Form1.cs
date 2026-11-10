@@ -1,5 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Collections.Generic;git remote add origin https://github.com/aminuxider/GROUP_MEMBERS_Project1.git
+git branch -M main
+git push -u origin main
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;

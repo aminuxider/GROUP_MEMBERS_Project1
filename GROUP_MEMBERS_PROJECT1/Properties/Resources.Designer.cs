@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GROUP_MEMBERS_PROJECT1.Properties
+namespace HigherLuck.Properties
 {
 
 
@@ -67,5 +67,38 @@ namespace GROUP_MEMBERS_PROJECT1.Properties
                 resourceCulture = value;
             }
         }
+
+        internal static global::System.Drawing.Bitmap DefaultAvatar =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("DefaultAvatar", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Dice1 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Dice1", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Dice2 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Dice2", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Dice3 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Dice3", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Dice4 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Dice4", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Dice5 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Dice5", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Dice6 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Dice6", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Icon01 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Icon01", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Icon02 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Icon02", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Icon03 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Icon03", resourceCulture)));
+
+        internal static global::System.Drawing.Bitmap Icon04 =>
+            ((global::System.Drawing.Bitmap)(ResourceManager.GetObject("Icon04", resourceCulture)));
     }
 }

@@ -26,10 +26,3 @@ namespace HigherLuck
         }
     }
 }
-
-Aminux09
-aminux_yd09
- 
- 
- 
-breathing oxygen
