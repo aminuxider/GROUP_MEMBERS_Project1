@@ -267,6 +267,7 @@
             // 
             // rbAvatar4
             // 
+            this.rbAvatar4.Image = global::HigherLuck.Properties.Resources.Icon04;
             this.rbAvatar4.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.rbAvatar4.Location = new System.Drawing.Point(21, 300);
             this.rbAvatar4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -277,6 +278,7 @@
             // 
             // rbAvatar3
             // 
+            this.rbAvatar3.Image = global::HigherLuck.Properties.Resources.Icon03;
             this.rbAvatar3.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.rbAvatar3.Location = new System.Drawing.Point(21, 212);
             this.rbAvatar3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -287,6 +289,7 @@
             // 
             // rbAvatar2
             // 
+            this.rbAvatar2.Image = global::HigherLuck.Properties.Resources.Icon02;
             this.rbAvatar2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.rbAvatar2.Location = new System.Drawing.Point(21, 125);
             this.rbAvatar2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -297,6 +300,7 @@
             // 
             // rbAvatar1
             // 
+            this.rbAvatar1.Image = global::HigherLuck.Properties.Resources.Icon01;
             this.rbAvatar1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.rbAvatar1.Location = new System.Drawing.Point(21, 37);
             this.rbAvatar1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -379,6 +383,7 @@
             // 
             // pbPlayer1
             // 
+            this.pbPlayer1.Image = global::HigherLuck.Properties.Resources.DefaultAvatar;
             this.pbPlayer1.Location = new System.Drawing.Point(15, 40);
             this.pbPlayer1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pbPlayer1.Name = "pbPlayer1";
@@ -424,6 +429,7 @@
             // 
             // pbPlayer2
             // 
+            this.pbPlayer2.Image = global::HigherLuck.Properties.Resources.DefaultAvatar;
             this.pbPlayer2.Location = new System.Drawing.Point(15, 40);
             this.pbPlayer2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pbPlayer2.Name = "pbPlayer2";

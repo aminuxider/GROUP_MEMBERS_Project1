@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;git remote add origin https://github.com/aminuxider/GROUP_MEMBERS_Project1.git
-git branch -M main
-git push -u origin main
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
@@ -33,6 +31,16 @@ namespace HigherLuck
             rbAvatar2.Image = Properties.Resources.Icon02;
             rbAvatar3.Image = Properties.Resources.Icon03;
             rbAvatar4.Image = Properties.Resources.Icon04;
+
+            rbAvatar1.ImageAlign = ContentAlignment.MiddleCenter;
+            rbAvatar2.ImageAlign = ContentAlignment.MiddleCenter;
+            rbAvatar3.ImageAlign = ContentAlignment.MiddleCenter;
+            rbAvatar4.ImageAlign = ContentAlignment.MiddleCenter;
+
+            rbAvatar1.Refresh();
+            rbAvatar2.Refresh();
+            rbAvatar3.Refresh();
+            rbAvatar4.Refresh();
         }
 
         
@@ -159,6 +167,11 @@ namespace HigherLuck
             {
                 rbAvatar4.Checked = true;
             }
+
+            rbAvatar1.Refresh();
+            rbAvatar2.Refresh();
+            rbAvatar3.Refresh();
+            rbAvatar4.Refresh();
         }
 
         
